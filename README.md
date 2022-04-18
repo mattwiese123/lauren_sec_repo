@@ -60,6 +60,12 @@
     1. [Process management](https://ryanstutorials.net/linuxtutorial/processes.php)
     1. [Scripting](https://ryanstutorials.net/linuxtutorial/scripting.php)
     1. [Cheat sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+1. Git and github
+    1. Git and github for beginners: [link](https://www.youtube.com/watch?v=RGOj5yH7evk)
+    1. Github learning lab: [link](https://lab.github.com/)
+        1. Introduction to github: [link](https://lab.github.com/githubtraining/introduction-to-github)
+        1. First day on github: [link](https://lab.github.com/githubtraining/first-day-on-github)
+        1. First week on github: [link](https://lab.github.com/githubtraining/first-week-on-github)
 1. How does a virtual machine work?
     1. What are hypervisors?
     1. What are the types of hypervisors?
