@@ -45,27 +45,28 @@
     1. What do the components do?
     1. How do the components interface with one another?
 1. Linux and Bash
-    1. Reference page: [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/)
-    1. [Bash](https://ryanstutorials.net/linuxtutorial/commandline.php)
-    1. [Basic navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-    1. [More about files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-    1. [Man pages](https://ryanstutorials.net/linuxtutorial/manual.php)
-    1. [File manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
-    1. [Vi text editor](https://ryanstutorials.net/linuxtutorial/vi.php)
-    1. [Wildcards](https://ryanstutorials.net/linuxtutorial/wildcards.php)
-    1. [Permissions](https://ryanstutorials.net/linuxtutorial/permissions.php)
-    1. [Filters](https://ryanstutorials.net/linuxtutorial/filters.php)
-    1. [Grep and regular expressions (regex)](https://ryanstutorials.net/linuxtutorial/grep.php)
-    1. [Piping and redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
-    1. [Process management](https://ryanstutorials.net/linuxtutorial/processes.php)
-    1. [Scripting](https://ryanstutorials.net/linuxtutorial/scripting.php)
-    1. [Cheat sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+    1. Reference page: [link](https://ryanstutorials.net/linuxtutorial/)
+    1. Bash: [link](https://ryanstutorials.net/linuxtutorial/commandline.php)
+    1. Basic navigation: [link](https://ryanstutorials.net/linuxtutorial/navigation.php)
+    1. More about files: [link](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+    1. Man pages: [link](https://ryanstutorials.net/linuxtutorial/manual.php)
+    1. File manipulation: [link](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+    1. Vi text editor: [link](https://ryanstutorials.net/linuxtutorial/vi.php)
+    1. Wildcards: [link](https://ryanstutorials.net/linuxtutorial/wildcards.php)
+    1. Permissions: [link](https://ryanstutorials.net/linuxtutorial/permissions.php)
+    1. Filters: [link](https://ryanstutorials.net/linuxtutorial/filters.php)
+    1. Grep and regular expressions (regex): [link](https://ryanstutorials.net/linuxtutorial/grep.php)
+    1. Piping and redirection: [link](https://ryanstutorials.net/linuxtutorial/piping.php)
+    1. Process management: [link](https://ryanstutorials.net/linuxtutorial/processes.php)
+    1. Scripting: [link](https://ryanstutorials.net/linuxtutorial/scripting.php)
+    1. Cheat sheet: [link](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 1. Git and github
     1. Git and github for beginners: [link](https://www.youtube.com/watch?v=RGOj5yH7evk)
     1. Github learning lab: [link](https://lab.github.com/)
         1. Introduction to github: [link](https://lab.github.com/githubtraining/introduction-to-github)
         1. First day on github: [link](https://lab.github.com/githubtraining/first-day-on-github)
         1. First week on github: [link](https://lab.github.com/githubtraining/first-week-on-github)
+    1. Atlassian git tutorials: [link](https://www.atlassian.com/git/tutorials)
 1. How does a virtual machine work?
     1. What are hypervisors?
     1. What are the types of hypervisors?
