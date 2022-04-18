@@ -1,9 +1,9 @@
 # Introduction
 
 # Table of Contents
-1. [To learn notes](to-learn-notes)
-1. [How to learn tech](how-to-learn-tech)
-1. [Matt's questions](what-is-a-computer)
+1. [To learn notes](#to-learn-notes)
+1. [How to learn tech](#how-to-learn-tech)
+1. [Matt's questions](#what-is-a-computer)
 
 ## To learn notes
 1. Security & networking foundations
@@ -87,5 +87,5 @@
   1. speed of software
   1. speed of development
   1. legacy code and tech debt
-  1. install a tihng, write some "Hello, world!" code
+  1. install a thing, write some "Hello, world!" code
 
