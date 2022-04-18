@@ -45,6 +45,21 @@
     1. What do the components do?
     1. How do the components interface with one another?
 1. Linux and Bash
+    1. Reference page: [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/)
+    1. [Bash](https://ryanstutorials.net/linuxtutorial/commandline.php)
+    1. [Basic navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+    1. [More about files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+    1. [Man pages](https://ryanstutorials.net/linuxtutorial/manual.php)
+    1. [File manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+    1. [Vi text editor](https://ryanstutorials.net/linuxtutorial/vi.php)
+    1. [Wildcards](https://ryanstutorials.net/linuxtutorial/wildcards.php)
+    1. [Permissions](https://ryanstutorials.net/linuxtutorial/permissions.php)
+    1. [Filters](https://ryanstutorials.net/linuxtutorial/filters.php)
+    1. [Grep and regular expressions (regex)](https://ryanstutorials.net/linuxtutorial/grep.php)
+    1. [Piping and redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
+    1. [Process management](https://ryanstutorials.net/linuxtutorial/processes.php)
+    1. [Scripting](https://ryanstutorials.net/linuxtutorial/scripting.php)
+    1. [Cheat sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 1. How does a virtual machine work?
     1. What are hypervisors?
     1. What are the types of hypervisors?
