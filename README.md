@@ -45,6 +45,7 @@
     1. What do the components do?
     1. How do the components interface with one another?
         1. Big picture (iterate with url, there are 13 pages): [link](https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading01.htm)
+        1. History of computing: [link](https://www.youtube.com/watch?v=47NRaBVxgVM)
 1. Linux and Bash
     1. Reference page: [link](https://ryanstutorials.net/linuxtutorial/)
     1. Bash: [link](https://ryanstutorials.net/linuxtutorial/commandline.php)
