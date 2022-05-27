@@ -1,0 +1,4 @@
+Write the following programs:
+0.) Prints "Hello, World!" to the console.
+1.) Write a program that asks the user for their name and greets them with their name.
+2.) Write a program that asks the user for their rate of pay and how many hours they work per week, then print their weekly pay to the screen.
